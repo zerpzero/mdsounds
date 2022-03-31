@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: !macht DRUCK Customsounds
+## Author: Zerpy
+## Notes: A LE TONK
+## Version: 1
+
+embeds.xml
+core.lua
